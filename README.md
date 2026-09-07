@@ -3,7 +3,7 @@
 
 A collection of Python programs created while learning and practicing the list data type.
 
-This repository contains 11 practice programs, organized from basic to advanced. Each program focuses on different list concepts, functions, and methods, demonstrating their implementation through simple and practical examples.
+This repository contains full practice programs, organized from basic to advanced. Each program focuses on different list concepts, functions, and methods, demonstrating their implementation through simple and practical examples.
 
 📚 Concepts Covered
 
