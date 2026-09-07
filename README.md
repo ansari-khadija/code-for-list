@@ -50,3 +50,5 @@ Each program represents a concept I learned and implemented in code.
 09 → List Operations
 10 → Nested Lists & List Comprehension
 11 → Real-Life Application: Shopping List
+12 → list and different operation
+
